@@ -59,7 +59,7 @@ export default function Home() {
       name: 'Gan 16 Max 3x3',
       price: 349.99,
       category: 'premium',
-      image: 'https://i.imgur.com/Sp2iNQn.jpeg',
+      image: 'https://iili.io/fJhLFZg.jpg',
       rating: 4.9,
       reviews: 234,
       stock: 3,
@@ -749,3 +749,4 @@ export default function Home() {
     </>
   );
 }
+
